@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](https://drive.google.com/file/d/1sikvR9coXkHI7W_bXKWwBo2qJBLCWm0M/view?usp=share_link)
+![Alt Text](https://drive.google.com/file/d/1sikvR9coXkHI7W_bXKWwBo2qJBLCWm0M/view)
 
 I'm Mario, a software engineering student passionate about technology and software, focused on iOS Development.
 
