@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Mario, a software engineering student passionate about technology and software, focused on iOS Development.
+
+I'm currently learning Swifft, and SwiftUI.
+
 <!--
 **MrStoneDev/MrStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
