@@ -6,7 +6,7 @@ I'm Mario, a software engineering student passionate about technology and softwa
 
 - 🌱 I'm currently learning Swifft, and SwiftUI.
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,git,github)](https://skillicons.dev)
 
 <!--
 **MrStoneDev/MrStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
