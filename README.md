@@ -8,7 +8,6 @@ I'm Mario, a software engineering student passionate about technology and softwa
 
 [![My Skills](https://skillicons.dev/icons?i=swift,git,github)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MrStoneDev&theme=buefy-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
 <!--
