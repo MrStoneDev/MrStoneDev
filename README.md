@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-![Alt Text](https://raw.githubusercontent.com/MrStoneDev/MrStoneDev/main/Banner%20MrStoneDev.png)
-
 I'm Mario, a software engineering student passionate about technology and software.
 
 - 🌱 I'm currently learning NodeJS.
 
+<!--![Alt Text](https://raw.githubusercontent.com/MrStoneDev/MrStoneDev/main/Banner%20MrStoneDev.png)
 
-<!--
 **MrStoneDev/MrStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
