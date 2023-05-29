@@ -2,12 +2,9 @@
 
 ![Alt Text](https://raw.githubusercontent.com/MrStoneDev/MrStoneDev/main/Banner%20MrStoneDev.png)
 
-I'm Mario, a software engineering student passionate about technology and software, focused on iOS Development.
+I'm Mario, a software engineering student passionate about technology and software.
 
-- 🌱 I'm currently learning Swifft, and SwiftUI.
-
-[![My Skills](https://skillicons.dev/icons?i=swift,git,github)](https://skillicons.dev)
-
+- 🌱 I'm currently learning NodeJS.
 
 
 <!--
