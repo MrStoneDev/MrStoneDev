@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+![Alt Text](https://github.com/MrStoneDev/MrStoneDev/blob/4043a679e1b94d32ad56a5442be59fc95e15f7c5/Banner.png)
+
+
 I'm Mario, a software engineering student passionate about technology and software.
 
 - 🌱 I'm currently learning NodeJS, and Swift.
-
-![Alt Text](https://github.com/MrStoneDev/MrStoneDev/blob/4043a679e1b94d32ad56a5442be59fc95e15f7c5/Banner.png)
 <!--
 
 **MrStoneDev/MrStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
