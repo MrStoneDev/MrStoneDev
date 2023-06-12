@@ -2,7 +2,7 @@
 
 I'm Mario, a software engineering student passionate about technology and software.
 
-- 🌱 I'm currently learning NodeJS, and Swift.
+- 🌱 I'm currently learning NodeJS, and Swift. 
 
 <!--![Alt Text](https://raw.githubusercontent.com/MrStoneDev/MrStoneDev/main/Banner%20MrStoneDev.png)
 
