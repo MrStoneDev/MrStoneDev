@@ -5,7 +5,7 @@
 
 I'm Mario, a software engineering student passionate about technology and software.
 
-- 🌱 I'm currently learning NodeJS, and Swift.
+- 🌱 I'm currently learning NodeJS, Swift, and SwiftUI.
 <!--
 
 **MrStoneDev/MrStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
