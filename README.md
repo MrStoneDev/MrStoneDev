@@ -7,7 +7,6 @@ I'm Mario, a software engineering student passionate about technology and softwa
 
 - 🌱 I'm currently learning NodeJS, Swift, SwiftUI, and AWS.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marioalvarado404/), [Email](mario.alvarado.isw@gmail.com) 
-- ⚡ Fun fact: My life is a fun fact.
 <!--
 
 **MrStoneDev/MrStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
