@@ -5,7 +5,7 @@
 
 I'm Mario, a software engineering student passionate about technology and software.
 
-- 🌱 I'm currently learning NodeJS, Swift and SwiftUI.
+- 🌱 I'm currently learning Swift and SwiftUI.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marioalvarado404/), [Email](mario.alvarado.isw@gmail.com) 
 <!--
 
