@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-![Alt Text](https://github.com/MrStoneDev/MrStoneDev/blob/4043a679e1b94d32ad56a5442be59fc95e15f7c5/Banner.png)
-
 
 I'm Mario, a software engineering student passionate about technology and software.
 
-- 🌱 I'm currently learning Swift and SwiftUI.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marioalvarado404/), [Email](mario.alvarado.isw@gmail.com) 
-<!--
+<!-- 🌱 I'm currently learning Swift and SwiftUI.
+
 
 **MrStoneDev/MrStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
