@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Mario, a software engineering student passionate about technology and software.
+I'm Mario, a software engineer passionate about technology and software.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marioalvarado404/), [Email](mario.alvarado.isw@gmail.com) 
 <!-- 🌱 I'm currently learning Swift and SwiftUI.
